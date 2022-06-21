@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Milan Davis
-email:
+email: milandaviss@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+twitter_username: milandavis
+github_username: milandaviss
 minimal_mistakes_skin: default
 search: true
 
@@ -62,15 +62,12 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : ""
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "milandavis"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/milandavis"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/milandaviss"
     - label: "mdmorelly"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mdmorelly"
@@ -85,7 +82,7 @@ footer:
       url: "https://github.com/milandaviss"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/milandavis"
+      url: "https://instagram.com/mdmorelly"
 
 defaults:
   # _posts
